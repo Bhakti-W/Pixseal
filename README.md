@@ -1,9 +1,9 @@
 # Pixseal: Content Authentication Infrastructure for the AI Age
 
-[
-[
-[
-[
+
+
+
+
 
 ## 🚀 **The Problem**
 
