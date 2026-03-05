@@ -13,11 +13,11 @@
 - **Deepfakes and AI-generated images** are indistinguishable from real ones
 - **Content creators have no proof** of ownership that holds up in court
 
-**ProofChain solves this with invisible watermarking + blockchain timestamps + automated monitoring.**
+**Pixseal solves this with invisible watermarking + blockchain timestamps + automated monitoring.**
 
 ## ✨ **What We Built**
 
-**ProofChain is a complete content authentication platform** that:
+**Pixseal is a complete content authentication platform** that:
 
 1. **Embeds invisible watermarks** that survive edits, compression, and screenshots
 2. **Registers ownership on Ethereum blockchain** (Sepolia testnet → Polygon mainnet)
@@ -67,8 +67,8 @@ git --version
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOURUSERNAME/proofchain.git
-cd proofchain
+git clone https://github.com/YOURUSERNAME/pixseal.git
+cd pixseal
 
 # Frontend
 cd frontend
@@ -100,8 +100,6 @@ https://faucets.chain.link/sepolia
 3. Automated monitoring scans internet daily
 4. Stolen images detected → Legal evidence generated
 ```
-
-**Live Demo:** [proofchain.app](https://proofchain.app)
 
 ## 🏗 **Architecture**
 
@@ -137,15 +135,17 @@ Monitoring Service (Celery)
 
 ```
 Free Tier:        10 images/month
-Pro Tier:         $4.99/mo unlimited
+Pro Tier:         $xx/mo unlimited
 Enterprise:       Custom pricing
 AI Registry:      $20M+/year (OpenAI, Google)
 Platform SDK:     $10-50M/year (Reddit, Discord)
+Havent yet discussed the pricing yet(just an estimate from google)
 ```
 
 ## 📊 **Traction**
 
 ```
+(again just an estimate from google)
 ✅ 8,000+ users
 ✅ 45,000+ images protected
 ✅ Smart contract deployed (Sepolia)
@@ -222,6 +222,3 @@ contract ProofChain {
 ## 📄 **License**
 
 MIT License - see [LICENSE](LICENSE) file.
-***
-
-**Update the links with your actual URLs, and you're ready to crush that hackathon!** 🔥
